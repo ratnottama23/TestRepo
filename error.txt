@@ -1,0 +1,263 @@
+
+
+
+
+
+
+
+
+
+
+
+         Messages                                      >                     Error                         Context
+         on            c10wdadf                 01p                     at                                           4/                      8/                        2020                            11:                             06:                               30                                  AM
+         The            r            epor              t                              shows                   t                  he                     cont                      ext                                                f                        or                                                   an                            er                            r                            or                             .
+         Er           r           or                          Message:
+
+
+
+
+
+
+
+
+
+
+         Execut              i              on                 I                nf                 or                   mat                     i                     on
+         Oper            at             i             on               I               D     39051
+         Package       RMDat                         aUpl                           oad\                             RMSDat                                 a_Wr                                    i                                    t                                    e2TD\                                       I                                       nf                                        oMgr                                           Al                                            er                                             t                                             s.                                              dt                                               sx
+         Envi           r            onment     -
+         St          at           us        Fai                       l                       ed
+
+
+           Fi            l             t             er              :  Cont                    ext                                           Dept                        h:                                                   1;                                                                                (                           2                             mor                              e)
+
+         Connect              i               on                  Manager                      s
+
+                 Package                       Pat                        h              Cont                                          ext                                                                                        Sour                                              ce                                                 Name
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+
+
+
+         Var           i            abl              es
+                 Package                       Pat                        h              Cont                                          ext                                                                                        Sour                                              ce                                                 Name
+
+
+         Al           l                       Cont              ext                                 I                 nf                  or                   mat                      i                      on
+                 Package                       Pat                        h              Cont                                          ext                                                                                        Sour                                              ce                                                 Name
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+
+
+
+         1           /                      5       Use                      scr                       ol                        l                                                 wheel                                                       or                                                          PAGE                                 UP                                   &                                    PAGE                                       DOWN                                           t                                          o                                            move                                               t                                              hr                                               ough                                                   pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Dat         a           Fl           ow              Task:                Er                 r                 or                  :                                      Syst                     em.                       For                        mat                          Except                             i                              on:                                                               I                                nput                                                                     st                                   r                                   i                                    ng                                      was                                        not                                                                                   i                                         n                                           a                                            cor                                             r                                             ect                                                                                              f                                               or                                                mat                                                  .                                    at                    Syst            em.              Text                .                St                 r                  i                  ngBui                     l                     der                      .                       AppendFor                            mat                              Hel                               per                                 (                                 I                                  For                                   mat                                     Pr                                      ovi                                        der                                                                                   pr                                          ovi                                            der                                             ,                                                                                             St                                               r                                               i                                                ng                                                  f                                                 or                                                  mat                                                    ,                                                                                                          Par                                                      amsAr                                                          r                                                          ay                                                            ar                                                            gs)                                    at                    Syst            em.              St               r               i               ng.                 For                   mat                    Hel                      per                        (                        I                        For                          mat                            Pr                             ovi                              der                                                                 pr                                 ovi                                  der                                    ,                                                                         St                                      r                                      i                                      ng                                         f                                        or                                         mat                                           ,                                                                                       Par                                             amsAr                                                r                                                ay                                                   ar                                                   gs)                                    at                    Syst            em.              St               r               i               ng.                 For                   mat                    (                     I                     For                       mat                        Pr                         ovi                           der                                                          pr                              ovi                               der                                 ,                                                                   St                                  r                                   i                                   ng                                     f                                     or                                      mat                                       ,                                                                                 Obj                                          ect                                           [                                            ]                                                                                         ar                                             gs)                                    at                    Mi           cr            osof              t              .               Sql                Ser                  ver                   .                    I                    nt                     egr                      at                       i                       onSer                          vi                           ce.                             Adl                              sComponent                                    s.                                     Pi                                      pel                                        i                                        neComponent                                               Ext                                                .                                                 Post                                                   Er                                                    r                                                    or                                                     (                                                      St                                                       r                                                       i                                                       ng                                                          message,                                                                                                                            Obj                                                               ect                                                                 [                                                                 ]                                                                                                                                    ar                                                                   gs)                                    at                    Mi           cr            osof              t              .               Sql                Ser                  ver                   .                    I                    nt                     egr                      at                       i                       onSer                          vi                           ce.                             Adl                              sComponent                                    s.                                     Pi                                      pel                                        i                                        neComponent                                               Sour                                                 ce.                                                  Tr                                                   ansf                                                      er                                                      ToOut                                                          put                                                           Buf                                                             f                                                             er                                                              s(                                                               I                                                               nt                                                                32                                                                   out                                                                   put                                                                     s,                                                                              I        nt         32[          ]                       out            put              I              Ds,                                 Pi                 pel                   i                   neBuf                      f                      er                       [                       ]                                                 buf                         f                          er                           s)                                    at                    Mi           cr            osof              t              .               Sql                Ser                  ver                   .                    I                    nt                     egr                      at                       i                       onSer                          vi                           ce.                             Adl                              sComponent                                    s.                                     Sour                                        ce.                                         Hdf                                           sSour                                              ce.                                               Pr                                                i                                                meOut                                                    put                                                     (                                                     I                                                      nt                                                       32                                                         out                                                          put                                                           s,                                                                                                                         I                                                             nt                                                             32[                                                               ]                                                                                                                                out                                                                 put                                                                   I                                                                   Ds,                                                                              Pi         pel          i          neBuf             f             er              [               ]                               buf                 f                 er                  s)                                    at                    Mi           cr            osof              t              .               Sql                Ser                  ver                   .                    Dt                     s.                      Pi                       pel                        i                        ne.                          ManagedComponent                                    Host                                      .                                      Host                                         Pr                                          i                                          meOut                                             put                                               (                                               I                                               DTSManagedComponent                                                            Wr                                                             apper                                                                100                                                                   wr                                                                   apper                                                                      ,                                                                               I        nt         32           out            put             s,                              I               nt                32[                 ]                                    out                   put                     I                     Ds,                                               I                       DTSBuf                           f                           er                            100[                              ]                                                               buf                                 f                                 er                                  s,                                                                       I                                   nt                                    Pt                                     r                                                                             ppBuf                                         f                                         er                                          Wi                                           r                                            ePacket                                                )
+
+
+
+
+        Dur         at          i           on             (            sec)    10.                     188
+        St         ar          t                     Ti           me      4/                     6/                      2020                         9:                         02:                           52                             PM
+        End           Ti           me       4/                     6/                      2020                         9:                         03:                           02                             PM
+        Cal         l          er        Azur                      eI                       nt                        egr                         at                          i                           onSer                              vi                              ceDbo
+
+
+
+
+
+
+             Pr               oper                 t                 y                   Name                Pr                                       oper                                          t                                          y                                            Val                                            ue              Cont                                                               ext                                                                                                                                 Dept                                                                   h
+        Connect            i            onSt              r               i               ng           WebHdf                               sHost                                  =adl                                    sedhdev.                                         azur                                           edat                                             al                                              akest                                                or                                                 e.                                                  net                                                    ;                                                    WebHdf             1                           sPor                              t                              =443;                                 WebHdf                                     sUser                                        Name=0f                                            081437-                                                f                                                824-                                                  4f                                                   10-                                                     944d-                           92f                             0db6bc37b;                                   WebHdf                                       sAut                                         hType=Azur                                               eADSer                                                  vi                                                   ceI                                                     dent                                                       i                                                       t                                                       y;                           WebHdf                               sDomai                                   n=ddb8592f                                         -                                         ed74-                                            4329-                                               bf                                                d2-                           571b7c34699e/                                   oaut                                     h2/                                      v2.                                        0/                                         t                                         oken;                                            WebHdf                                                sI                                                 sHt                                                  t                                                   ps=Tr                                                     ue;
+
+
+             Pr               oper                 t                 y                   Name                       Pr                                              oper                                                 t                                                 y                                                   Val                                                    ue
+
+
+
+
+             Pr               oper                 t                 y                   Name                Pr                                       oper                                          t                                          y                                            Val                                            ue              Cont                                                               ext                                                                                                                                 Dept                                                                   h
+        Connect            i            onDescr                i                pt                 i                 on        Connect                               i                                on                                  manager                                                                            f                                      or                                                                               Azur                                          e                                           Dat                                            a                                              Lake                                                 St                                                 or                                                  e                   1
+
+        Connect            i            onDi              spl                ayName       ADLS                                Connect                                   i                                   on                                     Manager                            1
+
+        Connect            i            onSt              r               i               ng           WebHdf                               sHost                                  =adl                                    sedhdev.                                         azur                                           edat                                             al                                              akest                                                or                                                 e.                                                  net                                                    ;                                                    WebHdf             1                           sPor                              t                              =443;                                 WebHdf                                     sUser                                        Name=0f                                            081437-                                                f                                                824-                                                  4f                                                   10-                                                     944d-                           92f                             0db6bc37b;                                   WebHdf                                       sAut                                         hType=Azur                                               eADSer                                                  vi                                                   ceI                                                     dent                                                       i                                                       t                                                       y;                           WebHdf                               sDomai                                   n=ddb8592f                                         -                                         ed74-                                            4329-                                               bf                                                d2-                           571b7c34699e/                                   oaut                                     h2/                                      v2.                                        0/                                         t                                         oken;                                            WebHdf                                                sI                                                 sHt                                                  t                                                   ps=Tr                                                     ue;
+
+         2           /                      5       Use                      scr                       ol                        l                                                 wheel                                                       or                                                          PAGE                                 UP                                   &                                    PAGE                                       DOWN                                           t                                          o                                            move                                               t                                              hr                                               ough                                                   pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         3           /                      5       Use                      scr                       ol                        l                                                 wheel                                                       or                                                          PAGE                                 UP                                   &                                    PAGE                                       DOWN                                           t                                          o                                            move                                               t                                              hr                                               ough                                                   pages.
+
+
+
+
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Pr           oj           ect             .             Connect                 i                  ons[                    ADLS                        Connect                           i                           on     ADLS                                     Connect                                         i                                         on                                           Manager         Manager              ]
+         \          Package\              Dat                a                  Fl                  ow                    Task           Azur                                    e                                     Dat                                      a                                        Lake                                           St                                           or                                            e                                              Sour                                               ce
+         \          Package\              Dat                a                  Fl                  ow                    Task           Azur                                    e                                     Dat                                      a                                        Lake                                           St                                           or                                            e                                              Sour                                               ce
+         \          Package\              Dat                a                  Fl                  ow                    Task           Azur                                    e                                     Dat                                      a                                        Lake                                           St                                           or                                            e                                              Sour                                               ce
+
+
+         \          Package\              Dat                a                  Fl                  ow                    Task           Azur                                    e                                     Dat                                      a                                        Lake                                           St                                           or                                            e                                              Sour                                               ce
+         \          Package\              Dat                a                  Fl                  ow                    Task           Azur                                    e                                     Dat                                      a                                        Lake                                           St                                           or                                            e                                              Sour                                               ce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         4           /                      5       Use                      scr                       ol                        l                                                 wheel                                                       or                                                          PAGE                                 UP                                   &                                    PAGE                                       DOWN                                           t                                          o                                            move                                               t                                              hr                                               ough                                                   pages.
+
+
+
+
+        Cr         eat          i           onName            Azur                              eDat                                aLake                                  1
+
+        Descr           i           pt            i            on                                                        1
+
+        Hdf         sUser            Name           0f                            081437-                                f                                 824-                                   4f                                    10-                                     944d-                                        92f                                         0db6bc37b                      1
+
+        I        D                  {                            149C9D2E-                                 7138-                                    4EDC-                                        BD0B-                                           DD0C2AE31E17}                  1
+
+        Name                ADLS                                Connect                                   i                                   on                                     Manager                            1
+
+        Pr         ot          ect           i           onLevel           5                                         1
+
+        Scope                1                                         1
+
+        Suppor           t           sDTCTr               ansact                   i                   ons      Fal                             se                                       1
+
+        Tar         get           Ser             ver              Ver                si                 on         140                                        1
+
+        Ver         si          on               0                                         1
+
+        WebHdf            sAut              hType          1                                         1
+
+        WebHdf            sDomai               n           ddb8592f                                -                                ed74-                                   4329-                                      bf                                       d2-                                        571b7c34699e/                                                oaut                                                  h2/                                                   v2.                                                     0/                                                      t                                                      oken             1
+
+        WebHdf            sHost              Name         adl                             sedhdev.                                 azur                                   edat                                      al                                      akest                                         or                                          e.                                           net                         1
+
+        Col         umnDel             i             mi              t               er           |                                         1
+        Fi         l         eFor           mat             0                                         1
+        Fi         l         ePat           h               /                            Ent                             er                              pr                               i                                se                                  Dat                                   a                                  1                           St                            or                             e/                              i                               nt                               er                                i                                 mdat                                   a/                                    I                                    nboundRMSFi                                           l                                           es/                                             t                                             mpDi                                                r                                                /                                                I                                                 nf                                                 or                                                  mat                                                    i                                                    onMana                           ger                             Al                              er                               t                               s.                                t                                xt
+        Fi         r         st          RowAsCol               umnNames      Tr                            ue                                       1
+        User          Component                TypeName      Mi                             cr                             osof                                t                                .                                Sql                                  Ser                                   ver                                     .                                     I                                      nt                                      egr                                        at                                         i                                         onSer                                            vi                                             ce.                                              Adl                                                sComponent                                                      s.                                                       So             1                           ur                            ce.                              Hdf                                sSour                                  ce,                                                                Mi                             cr                             osof                                t                                .                                Sql                                  Ser                                   ver                                     .                                     I                                      nt                                      egr                                        at                                         i                                         onSer                                            vi                                             ce.                                              Cl                                               oud.                                                 Adl                                                   sCompone                           nt                            s,                                                           Ver                               si                                on=14.                                   1.                                    0.                                     0,                                                                             Cul                                        t                                        ur                                         e=neut                                             r                                             al                                              ,                                                                          Publ                              i                              cKeyToken=31bf                                      3856ad364e35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         5           /                      5       Use                      scr                       ol                        l                                                 wheel                                                       or                                                          PAGE                                 UP                                   &                                    PAGE                                       DOWN                                           t                                          o                                            move                                               t                                              hr                                               ough                                                   pages.
